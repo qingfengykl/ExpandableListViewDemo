@@ -28,8 +28,3 @@ build/
 # OS Auto gen
 Thumbs.db
 .DS_Store
-
-sdk build tools  = 24.0.1
-platform-tools = 24.0.1
-sdk tools = 25.1.7
-
